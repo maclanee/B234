@@ -32,7 +32,7 @@ namespace ConsoleApp7
         {
             
 
-            ConnectionCredentials credentials = new ConnectionCredentials("SnussedNigeriaa", "oauth:hw4p0mga517lgczeoz6k4jum9av94h");
+            ConnectionCredentials credentials = new ConnectionCredentials("SnussedNigeria", "oauth:hw4p0mga517lgczeoz6k4jum9av94h");
             var clientOptions = new ClientOptions
             {
                 MessagesAllowedInPeriod = 750,
